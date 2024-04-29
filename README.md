@@ -1,6 +1,6 @@
 # Gigabyte-z690i-Hackintosh
 OpenCore 0.9.9 Hackintosh (14) EFI For Gigabyte Z690I Aorus with i7-12700K
-Important: Currently this EFI is causing a Kernel Panic and I am trying to fix it for the following hardware.
+Important: Currently this EFI is not working and I am trying to fix it for the following hardware.
 
 # Hardware
 - Gigabyte Z690i Aorus Ultra Plus
