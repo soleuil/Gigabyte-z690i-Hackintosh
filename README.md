@@ -1,11 +1,18 @@
-# Gigabyte-z690i-Hackintosh
-OpenCore 0.9.9 Hackintosh (14) EFI For Gigabyte Z690I Aorus with i7-12700K
-Important: Currently this EFI is not working and I am trying to fix it for the following hardware.
+# Basic info
+There are still some issues I am trying to fix.
+- OpenCore_NO_ACPI: v1.0.0
+- MacOS 14.4.1 Sonoma
+
+# Current issues
+- Crashing when going to sleep.
+- Issues in settings showing a wrong timezone.
 
 # Hardware
 - Gigabyte Z690i Aorus Ultra Plus
 - Intel Core i7-12700K
 - Gigabyte RX 6950XT 16GB Sapphire Nitro
+- RAM Corsair Vegeance DDR5 6400Mhz 2x16Gb
+- Samsung 980 PRO M.2 NVMe SSD (1 Tb)
 
 # Config
 - SMBIOS - MacPro7,1
