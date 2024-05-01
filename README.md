@@ -5,7 +5,6 @@ There are still some issues I am trying to fix.
 
 # Current issues
 - Crashing when going to sleep.
-- Issues in settings showing a wrong timezone.
 
 # Hardware
 - Gigabyte Z690i Aorus Ultra Plus
